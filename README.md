@@ -1,4 +1,4 @@
-# Practico-II
+# Practico-I
 Crear un archivo HTML
 
 Contenido: Receta típica de una zona geográfica específica.
