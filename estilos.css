@@ -1,0 +1,8 @@
+body {background-color: #EDE7F6;}
+
+.tituloreceta {text-align: center; font-size: 350%; background-color:#E0E0E0; color: #F5B041; font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;}
+.hipervinculo {font-size: 100%; font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif; text-align: right;}
+.introduccion{font-size: 150%; font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif; text-align: center;}
+.subtitulos {text-decoration-line:underline; color: #F5B041}
+.lista {font-size: 120%; font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif; background-color:#E0E0E0;}
+.textocierre {font-size: 120%; font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif;text-align: justify}
